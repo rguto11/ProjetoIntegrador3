@@ -9,7 +9,7 @@ curso.
 
 
 Escolhemos o data set “Water Quality” do Kaggle disponível em:
-(<https://www.kaggle.com/datasets/adityakadiwal/water-potability>)
+<https://www.kaggle.com/datasets/adityakadiwal/water-potability>
 
 
 ### Objetivos:
