@@ -7,6 +7,11 @@ Neste Trabalho Prático os alunos devem escolher com qual conjunto de dados trab
 para resolver um problema de classificação com alguns dos modelos apresentados no
 curso.
 
+
+Escolhemos o data set “Water Quality” do Kaggle disponível em:
+(<https://www.kaggle.com/datasets/adityakadiwal/water-potability>)
+
+
 ### Objetivos:
 * Selecionar os dados para modelar. Justificar a escolha.
 * Treinar pelo menos três modelos de classificação diferentes nesses dados.
